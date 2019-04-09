@@ -5,5 +5,6 @@ public class TestController {
 
 	public String test() {
 		System.out.println("erdsrors");
+		return null;
 	}
 }
