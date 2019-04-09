@@ -1,5 +1,8 @@
 package com.example.demo.controller;
 
-public class TestControllers {
+public class TestController {
 
+	public static void main(String[] args) {
+		System.out.println("haha");
+	}
 }
