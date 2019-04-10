@@ -9,7 +9,7 @@ public class TestController {
 	}
 	
 	public String test2() {
-		System.out.println("我要成为大佬");
+		System.out.println("我ds为大佬");
 		return null;
 	}
 }
