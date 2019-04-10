@@ -9,7 +9,7 @@ public class TestController {
 	}
 	
 	public String test2() {
-		String a = "b";
+		System.out.println("erdsrors");
 		return null;
 	}
 }
