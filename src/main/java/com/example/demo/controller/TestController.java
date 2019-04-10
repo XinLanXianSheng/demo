@@ -9,7 +9,7 @@ public class TestController {
 	}
 	
 	public String test2() {
-		System.out.println("erdsrors");
+		long abc = 123;
 		return null;
 	}
 }
